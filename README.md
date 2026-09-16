@@ -1,3 +1,7 @@
+> **This fork is outdated and archived.** The maintained repository is
+> [Doichain/names-on-chain](https://github.com/Doichain/names-on-chain); the lessons run at
+> https://doichain.github.io/names-on-chain/.
+
 # Names-On-Chain 
 # A Doichain - PSBT Workshop
 
